@@ -3,7 +3,7 @@ This is a basic, fully functional Cab Booking Application made using the Java Sw
 
 ## Contributors
 1. Pranith S Kallakuri (Username: [pranithkallakuri](https://github.com/pranithkallakuri))
-2. Nitin Gopala Krishna Sontineni
+2. Nitin Gopala Krishna Sontineni (Username: [nitin-sontineni](https://github.com/nitin-sontineni))
 3. Dantuluri Sairaju (Username: [sairaju2001](https://github.com/sairaju2001))
 4. Maneesh Babu Jasti (Username: [Maneesh28](https://github.com/Maneesh28))<br /><br />
    -- students of BITS Pilani, Hyderabad Campus
