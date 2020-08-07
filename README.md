@@ -17,7 +17,13 @@ This is a basic, fully functional Cab Booking Application made using the Java Sw
 3. Now open your extracted directory in the Command Prompt or your OS's respective terminal.
 4. In the terminal, run the following commands in the specified order.
    1. `javac *.java`
-   2. `java Driver`
+   2. `cd cabops`
+   3. `javac *.java`
+   4. `cd ..`
+   5. `cd database`
+   6. `javac *.java`
+   7. `cd ..`
+   8. `java Driver`
 5. You will see the login screen pop up. Follow the instructions present on the screen.
 <br />
 
