@@ -13,7 +13,7 @@ This is a basic, fully functional Cab Booking Application made using the Java Sw
 
 ## How to run the program
 1. Make sure your PC has jdk 8 or higher.
-2. Download this Repository, and extract
+2. Download this Repository, and extract.
 3. Now open your extracted directory in the Command Prompt or your OS's respective terminal.
 4. In the terminal, run the following commands in the specified order.
    1. `javac *.java`
