@@ -8,7 +8,17 @@ This is a basic, fully functional Cab Booking Application made using the Java Sw
 4. Maneesh Babu Jasti<br /><br />
    -- students of BITS Pilani, Hyderabad Campus
 
-#### Note: Note: This software was not developed using github or git, therefore everyone's contributions and commits are not recorded. This repo serves only as a host for the code of our project.
+
+#### Note: This software was not developed using github or git, therefore everyone's contributions and commits are not recorded. This repo serves only as a host for the code of our project.
+
+## How to run the program
+1. Make sure your PC has jdk 8 or higher.
+2. Download this Repository, and extract
+3. Now open your extracted directory in the Command Prompt or your OS's respective terminal.
+4. In the terminal, run the following commands in the specified order.
+   1. Markup: `javac *.java'
+   2. Markup: `java Driver'
+5. You will see the login screen pop up. Follow the instructions present on the screen.
 
 ## Brief Description of the Application
 This Online Cab Booking project deals with an online application designed for booking cabs as
