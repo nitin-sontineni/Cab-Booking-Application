@@ -1,4 +1,15 @@
 # Cab-Booking-Application
+This is a basic, fully functional Cab Booking Application made using the Java Swing API.
+
+## Contributors
+1. Pranith S Kallakuri
+2. Nitin Gopala Krishna Sontineni
+3. Dantuluri Sai Raju
+4. Maneesh Babu Jasti
+<br />
+   -- students of BITS Pilani, Hyderabad Campus
+
+#### Note: Note: This software was not developed using github or git, therefore everyone's contributions and commits are not recorded. This repo serves only as a host for the code of our project.
 
 ## Brief Description of the Application
 This Online Cab Booking project deals with an online application designed for booking cabs as
