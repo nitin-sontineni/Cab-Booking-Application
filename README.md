@@ -2,7 +2,7 @@
 This is a basic, fully functional Cab Booking Application made using the Java Swing API.
 
 ## Contributors
-1. Pranith S Kallakuri
+1. Pranith S Kallakuri (Username: [pranithkallakuri](https://github.com/pranithkallakuri))
 2. Nitin Gopala Krishna Sontineni
 3. Dantuluri Sairaju (Username: [sairaju2001](https://github.com/sairaju2001))
 4. Maneesh Babu Jasti<br /><br />
