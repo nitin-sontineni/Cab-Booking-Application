@@ -20,7 +20,7 @@ This is a basic, fully functional Cab Booking Application made using the Java Sw
    2. `java Driver`
 5. You will see the login screen pop up. Follow the instructions present on the screen.
 
-
+<br />
 ## Brief Description of the Application
 This Online Cab Booking project deals with an online application designed for booking cabs as
 per the requirements of the customers at their convenience. The customer side of the application
